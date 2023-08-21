@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+#borde {
+  border-left: 5px solid black;
+}
+
+.card-body {
+  background-color: bisque;
+  width: 500px;
+}
+
+.form {
+  width: 500px;
+  margin: 50px;
+}
+
+.btn {
+  margin-top: 20px;
+}
